@@ -20,10 +20,19 @@ This repository contains updated ROS2 packages and instructions specifically tai
 
 ## [Auki Robotics Padbot X3](https://github.com/aukilabs/auki_robotics_padbot_x3)
 **Auki Robotics Padbot X3**  
-This repository is for the Padbot X3 robot platform and contains code and resources for integrating the Padbot X3 with Auki's posemesh and navigation systems.
+This repository is for the Padbot X3 robot platform and contains code and resources for integrating the Padbot X3 and W2 with Auki's posemesh and navigation systems.
 
 ---
 
 ## [Auki Robotics Padbot W3](https://github.com/aukilabs/auki_robotics_padbot_w3)
 **Auki Robotics Padbot W3**  
 This repository is for the Padbot W3 robot platform. Like the X3, it is part of the Auki Labs robotics suite, supporting integration with Auki's mapping and navigation tools.
+
+---
+
+**Note:**
+If you previously cloned the old `auki_robotics` repository, you may need to re-sync your local repository to the new remote. Run the following command in your local repo directory:
+
+```sh
+git remote set-url origin https://github.com/aukilabs/auki_robotics_map_utils.git
+```
