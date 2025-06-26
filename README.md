@@ -1,4 +1,4 @@
-![Auki Robotics Logo](Auki Logo Black.png)
+![Auki Robotics Logo](Auki%20Logo%20Black.png)
 
 # Auki Robotics Repository Directory
 
